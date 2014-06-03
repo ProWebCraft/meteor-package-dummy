@@ -1,0 +1,9 @@
+{
+    "name": "meteor-dummy-package",
+    "description": "",
+    "homepage": "https://github.com/ProWebCraft/meteor-package-dummy",
+    "author": "ProWebCraft",
+    "version": "0.1.0",
+    "git": "git@github.com:ProWebCraft/meteor-package-dummy.git",
+    "packages": {}
+}
